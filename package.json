@@ -1,0 +1,9 @@
+{
+  "name": "extendscript-ts-example",
+  "devDependencies": {
+    "@types/webpack": "^4.41.12",
+    "types-for-adobe": "^1.6.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
