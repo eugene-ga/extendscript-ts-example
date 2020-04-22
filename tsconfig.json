@@ -2,10 +2,14 @@
     "compilerOptions": {
         "module": "CommonJS",
         "noLib": true,
+        "skipLibCheck": true,
         "target": "es3",
         "outDir": "js"
     },
     "include": [
         "./src/**/*"
+    ],
+    "exclude": [
+        "./node_modules/**/*"
     ]
 }

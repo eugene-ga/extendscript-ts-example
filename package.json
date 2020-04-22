@@ -5,5 +5,8 @@
     "types-for-adobe": "^1.6.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
+  },
+  "scripts": {
+    "build": "tsc -p .; webpack"
   }
 }
