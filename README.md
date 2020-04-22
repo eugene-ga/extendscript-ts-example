@@ -8,5 +8,5 @@ yarn
 yarn build
 ```
 
-Source ts script ./src/index.ts   
-Compiled script will be at ./dist/main.js
+Source ts script at ./src/index.ts   
+Compiled adobe script will be at ./dist/main.js
