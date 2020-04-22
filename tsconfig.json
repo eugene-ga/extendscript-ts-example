@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "noLib": true,
+        "target": "es3",
+        "outDir": "js"
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
